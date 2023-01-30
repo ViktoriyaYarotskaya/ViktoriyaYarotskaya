@@ -1,4 +1,4 @@
-[Header](https://github.com/ViktoriyaYarotskaya/ViktoriyaYarotskaya/blob/main/assets/1.png)
+![Header](https://github.com/ViktoriyaYarotskaya/ViktoriyaYarotskaya/blob/main/assets/1.png)
 
 <h1 align="center"> Привет! Я начинающий инженер по тестированию </h1>
 🎓Окончила онлайн университет Skypro по специальности "Инженер по тестированию"
@@ -12,6 +12,7 @@
 <p align="center"><a href="https://github.com/ViktoriyaYarotskaya/ViktoriyaYarotskaya/blob/main/assets/CV.pdf" target="_blank">Мое резюме</a></p>
 
 <h1 align="center"> Стек </h1>
+
 ![Confluence](https://img.shields.io/badge/-Confluence-2F4F4F?style=for-the-badge&logo=confluence&logoColor=778899)
 ![Jira](https://img.shields.io/badge/-Jira-2F4F4F?style=for-the-badge&logo=Jira&logoColor=778899)
 ![Qase.io](https://img.shields.io/badge/-Qase.io-2F4F4F?style=for-the-badge&logo=chrome&logoColor=778899)
