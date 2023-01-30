@@ -1,8 +1,11 @@
-![Header](https://github.com/ViktoriyaYarotskaya/ViktoriyaYarotskaya/blob/main/assets/1.png)]
+![Header](https://github.com/ViktoriyaYarotskaya/ViktoriyaYarotskaya/blob/main/assets/1.png)
 
-About
+## Привет! Я начинающий инженер по тестированию. 
+### 🎓Окончила онлайн университет Skypro по специальности "Инженер по тестированию"
+### 👩🏻‍💻 Работаю тестировщиком-асессором в Яндекс
+### 📚 Развиваюсь в сфере тестирования
 
-Portolio
+##[Мое портфолио](https://github.com/ViktoriyaYarotskaya/portfolio)
 
 Tools
 
