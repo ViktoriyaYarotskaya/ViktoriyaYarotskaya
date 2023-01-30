@@ -7,9 +7,7 @@
 
 📚 Развиваюсь в сфере тестирования
 
-<p align="center">
-![Мое портфолио](https://github.com/ViktoriyaYarotskaya/portfolio)
-</p>
+<p align="center"><a href="https://github.com/ViktoriyaYarotskaya/portfolio" target="_blank">Мое портфолио</a>)</p>
 
 <p align="center">
 ![Мое резюме](https://github.com/ViktoriyaYarotskaya/ViktoriyaYarotskaya/blob/main/assets/CV.pdf)</p>
