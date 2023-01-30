@@ -1,15 +1,15 @@
 ![Header](https://github.com/ViktoriyaYarotskaya/ViktoriyaYarotskaya/blob/main/assets/1.png)
 
-## Привет! Я начинающий инженер по тестированию. 
+## Привет! Я начинающий инженер по тестированию
 🎓Окончила онлайн университет Skypro по специальности "Инженер по тестированию"
 
 👩🏻‍💻 Работаю тестировщиком-асессором в Яндекс
 
 📚 Развиваюсь в сфере тестирования
 
-[Мое портфолио](https://github.com/ViktoriyaYarotskaya/portfolio)
+<p align="center">[Мое портфолио](https://github.com/ViktoriyaYarotskaya/portfolio)</p>
 
-[Мое резюме](https://github.com/ViktoriyaYarotskaya/ViktoriyaYarotskaya/blob/main/assets/CV.pdf)
+<p align="center">[Мое резюме](https://github.com/ViktoriyaYarotskaya/ViktoriyaYarotskaya/blob/main/assets/CV.pdf)</p>
 
 ## Стек
 ![Confluence](https://img.shields.io/badge/-Confluence-2F4F4F?style=for-the-badge&logo=confluence&logoColor=778899)
