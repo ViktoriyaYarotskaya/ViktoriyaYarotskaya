@@ -7,9 +7,12 @@
 
 📚 Развиваюсь в сфере тестирования
 
-<p align="center">[Мое портфолио](https://github.com/ViktoriyaYarotskaya/portfolio)</p>
+<p align="center">
+![Мое портфолио](https://github.com/ViktoriyaYarotskaya/portfolio)
+</p>
 
-<p align="center">[Мое резюме](https://github.com/ViktoriyaYarotskaya/ViktoriyaYarotskaya/blob/main/assets/CV.pdf)</p>
+<p align="center">
+![Мое резюме](https://github.com/ViktoriyaYarotskaya/ViktoriyaYarotskaya/blob/main/assets/CV.pdf)</p>
 
 ## Стек
 ![Confluence](https://img.shields.io/badge/-Confluence-2F4F4F?style=for-the-badge&logo=confluence&logoColor=778899)
